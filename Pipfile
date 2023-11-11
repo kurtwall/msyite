@@ -5,9 +5,10 @@ name = "pypi"
 
 [packages]
 django = "*"
-pytest = "*"
 
 [dev-packages]
+django-debug-toolbar = "*"
+pytest-django = "*"
 
 [requires]
 python_version = "3.12"
