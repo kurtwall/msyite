@@ -9,6 +9,8 @@ django = "*"
 [dev-packages]
 django-debug-toolbar = "*"
 pytest-django = "*"
+pytest = "*"
+django = "*"
 
 [requires]
 python_version = "3.12"
