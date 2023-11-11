@@ -1,3 +1,7 @@
-li a { color: yellow; }
+li a {
+    color: yellow;
+}
 
-body { background: white url("images/background.png") no-repeat }
+body {
+    background: url("images/background.png") no-repeat;
+}
